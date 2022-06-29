@@ -1,6 +1,6 @@
 # Overview
 
-This material was presented at the IBME "Introduction to Python" workshop on June 299th, 2022.
+This material was presented at the IBME "Introduction to Python" workshop on June 299th, 2022. The latest version of this material is avaialable on [github](https://github.com/aarontabor/ibme-pythonworkshop)
 
 
 # Using this content
